@@ -1,0 +1,12 @@
+.DS_Store
+
+.ipynb_checkpoints/
+
+
+*.pyc
+*.p
+*.pkl 
+*.zip
+*/.floyd*
+data/
+checkpoints/
